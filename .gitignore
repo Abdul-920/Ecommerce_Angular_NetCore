@@ -1,0 +1,9 @@
+obj
+bin
+appsettings.json
+*.db
+*.ide
+*.suo
+*.lock
+applicationhost.config
+*.dtbcache
